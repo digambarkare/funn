@@ -5,4 +5,9 @@
   - name: writing my first scrept
     debug: 
      msg: "my first playbook"
-...     
+  - name: second one
+    debug: 
+     msg: "url"
+  - name: "third one"  
+    debug:
+     msg: "urlg"
